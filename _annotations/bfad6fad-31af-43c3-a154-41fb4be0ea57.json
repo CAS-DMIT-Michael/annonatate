@@ -1,0 +1,30 @@
+---
+canvas: "https://e-codices.ch/loris/fmb/fmb-cb-0600a/fmb-cb-0600a_004.jp2/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "nose",
+            "purpose": "commenting",
+            "creator": {
+                "id": "CAS-DMIT-Michael",
+                "name": "CAS-DMIT-Michael"
+            },
+            "created": "2023-03-10T08:37:58.782Z",
+            "modified": "2023-03-10T08:37:59.036Z"
+        }
+    ],
+    "target": {
+        "source": "https://e-codices.ch/loris/fmb/fmb-cb-0600a/fmb-cb-0600a_004.jp2/full/full/0/default.jpg",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"609.2445983886719\" cy=\"2625.6744384765625\" rx=\"177.27273559570312\" ry=\"56.3636474609375\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bfad6fad-31af-43c3-a154-41fb4be0ea57.json",
+    "motivation": "commenting"
+}
